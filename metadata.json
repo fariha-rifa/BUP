@@ -1,0 +1,6 @@
+{
+  "name": "GridWise Energy Optimizer",
+  "description": "LLM-assisted campus energy scheduling, operator directive interpretation, and 24-hour cost optimization platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
